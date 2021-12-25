@@ -1,6 +1,6 @@
 ### Hi there, I'm Nikhil - AKA [Biswa][instagram]
 
-[![Instagram](https://img.Shields.io/website?label=x.devilop&style=for-the-badge&)](https://instagram.com/x.devilop)
+[![Instagram](https://img.Shields.io/website?label=x.devilop&style=for-the-badge&url=https%3A%2F%2Finstagram.com/x.devilop)](https://instagram.com/x.devilop)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ig_devilisop?color=1DA1F2&logo=twitter&style=for-the-badge&)](https://twitter.com/intent/follow?original_referes=https%3A%2F%2Fgithub.com%2Fig_devilisop&screen-name=ig_devilisop)
 
