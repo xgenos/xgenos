@@ -37,7 +37,7 @@
 
 ### ✨ My Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [youtube]: https://youtube.com/channel/UCiK7eb2PWlhVuyE0uCj0ZwA
