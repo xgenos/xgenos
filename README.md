@@ -1,4 +1,4 @@
-## Hi there, I'm Nikhil - AKA [Biswa][instagram]
+## Hi there!!!👋, I'm Nikhil - AKA [Biswa][instagram]
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/x.devilop)
 
@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=DeviL-OP&style=flat-square&color=blueviolet)
 
-## I,m Student,Developer and Ethical Hacker
+## I'm Student👨‍🎓, Developer and Ethical Hacker👨‍💻
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeviL-OP&" alt="DeviL-OP" /></p>
 
@@ -17,7 +17,7 @@
 - ⚡ 2022 Goals: Aim to create a python base A.I.
 - 🎄 Funfact: I love listening songs and i also love writing qoutes
 
-## Contact With Me:
+## 📞 Contact With Me:
 
 [<img align="lift" alt="Biswakalyan Bhuyan | Youtube" width="26px" src="https://img.icons8.com/color/22/000000/youtube-play.png" />][youtube] 
 [<img align="lift" alt="Biswa | Twitter" width="26px" src="https://img.icons8.com/color/22/000000/twitter--v2.png" />][twitter] 
@@ -27,7 +27,7 @@
 
 <br />
 
-## Language and Tools i use :
+## 🛠 Language and Tools i use :
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluency/26/000000/visual-studio-code-2019.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/26/000000/html-5--v1.png" />][HTML5]
@@ -42,7 +42,7 @@
 
 ---
 
-## ✨ My Stats:
+## 📈 My Stats:
 
 [![Biswa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeviL-OP)](https://github.com/DeviL-OP/github-readme-stats)
 
