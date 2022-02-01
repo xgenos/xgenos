@@ -65,7 +65,7 @@
 ##
 
 <p align='center'>
-  <a href="#"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=DeviL-OP&theme=minimal&theme=dark" alt="DeviL-OP" /></a>
+  <a href="#"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=DeviL-OP&theme=minimal" alt="DeviL-OP" /></a>
 </p>
 
 [youtube]: https://youtube.com/channel/UCiK7eb2PWlhVuyE0uCj0ZwA
