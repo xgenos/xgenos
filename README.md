@@ -15,17 +15,13 @@
 - ⚡ 2022 Goals: Aim to create a python base A.I.
 - 🎄 Funfact: I love listening songs and i also love writing qoutes
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### Contact With Me:
 
-<a href="https://dev.to/biswakalyan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="biswakalyan" width="22px" /></a>
-<a href="https://twitter.com/ig_devilisop?t=kQri76C8PWY4Mqqp_CuHgQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ig.devilisop" width="22px" /></a>
-<a href="https://www.linkedin.com/in/biswakalyan-bhuyan-540b53214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Biswakalyan" width="22px" /></a>
-<a href="https://www.facebook.com/ig.devilisop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ig.devilisop" width="22px" /></a>
-<a href="https://instagram.com/x.devilop?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x.devilop" width="22px" /></a>
-<a href="https://youtube.com/channel/UCiK7eb2PWlhVuyE0uCj0ZwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Biswakalyan Bhuyan" width="22px" /></a>
-
-</p>
+[<img align="lift" alt="Biswakalyan Bhuyan | Youtube" width="26px" src="https://img.icons8.com/color/22/000000/youtube-play.png" />][youtube] 
+[<img align="lift" alt="Biswa | Twitter" width="26px" src="https://img.icons8.com/color/22/000000/twitter--v2.png" />][twitter] 
+[<img align="lift" alt="Biswakalyan Bhuyan | Linkdin" width="26px" src="https://img.icons8.com/color/22/000000/linkedin-2--v2.png" />][linkdin] 
+[<img align="lift" alt="Biswa | Instagram" width="26px" src="https://img.icons8.com/color/22/000000/instagram-new--v2.png" />][instagram] 
+[<img align="lift" alt="Biswakalyan Bhuyan | Dev" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />][dev] 
 
 <br />
 
@@ -46,13 +42,14 @@
 
 ### ✨ My Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Biswa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeviL-OP)](https://github.com/DeviL-OP/github-readme-stats) <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeviL-OP&show_icons=true&locale=en&layout=compact" alt="starkdroid" /></p>
 
 
 [youtube]: https://youtube.com/channel/UCiK7eb2PWlhVuyE0uCj0ZwA
 [twitter]: https://twitter.com/ig_devilisop?t=kQri76C8PWY4Mqqp_CuHgQ&s=09
 [linkdin]: https://www.linkedin.com/in/biswakalyan-bhuyan-540b53214
 [instagram]: https://instagram.com/x.devilop?utm_medium=copy_link
+[dev]: https://dev.to/biswakalyan
 [vscode]: https://code.visualstudio.com/
 [HTML5]: https://html.com/
 [CSS3]: https://html.com/
