@@ -27,13 +27,6 @@
 
 </p>
 
-### Contact Withme:
-
-[<img align="lift" alt="Biswakalyan Bhuyan | Youtube" width="22px" src="https://img.icons8.com/color/22/000000/youtube-play.png" />][youtube]
-[<img align="lift" alt="Biswa | Twitter" width="22px" src="https://img.icons8.com/color/22/000000/twitter--v2.png" />][twitter]
-[<img align="lift" alt="Biswakalyan Bhuyan | Linkdin" width="22px" src="https://img.icons8.com/color/22/000000/linkedin-2--v2.png" />][linkdin]
-[<img align="lift" alt="Biswa | Instagram" width="22px" src="https://img.icons8.com/color/22/000000/instagram-new--v2.png" />][instagram]
-
 <br />
 
 ### Language and Tools i use :
