@@ -8,7 +8,7 @@
 
 ## I'm Student👨‍🎓, Developer and Ethical Hacker👨‍💻
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeviL-OP&" alt="DeviL-OP" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeviL-OP&theme=dark" alt="DeviL-OP" /></p>
 
 <br>
 
@@ -44,11 +44,11 @@
 
 ## 📈 My Stats:
 
-[![Biswa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeviL-OP)](https://github.com/DeviL-OP/github-readme-stats)
+[![Biswa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeviL-OP&theme=dark)](https://github.com/DeviL-OP/github-readme-stats)
 
 ##
 
-[![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviL-OP)](https://github.com/DeviL-OP/github-readme-stats)
+[![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviL-OP&theme=dark)](https://github.com/DeviL-OP/github-readme-stats)
 
 ##
 
@@ -56,7 +56,7 @@
 
 ##
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=DeviL-OP&theme=minimal)](https://github.com/DeviL-OP/github-readme-stats)
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=DeviL-OP&theme=minimal&theme=dark)](https://github.com/DeviL-OP/github-readme-stats)
 
 [youtube]: https://youtube.com/channel/UCiK7eb2PWlhVuyE0uCj0ZwA
 [twitter]: https://twitter.com/ig_devilisop?t=kQri76C8PWY4Mqqp_CuHgQ&s=09
