@@ -64,10 +64,6 @@
 
 ##
 
-<p align='center'>
-  <a href="#"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=DeviL-OP&theme=minimal" alt="DeviL-OP" /></a>
-</p>
-
 [youtube]: https://youtube.com/channel/UCiK7eb2PWlhVuyE0uCj0ZwA
 [twitter]: https://twitter.com/ig_devilisop?t=kQri76C8PWY4Mqqp_CuHgQ&s=09
 [linkdin]: https://www.linkedin.com/in/biswakalyan-bhuyan-540b53214
