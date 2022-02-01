@@ -8,7 +8,9 @@
 
 ## I'm Student👨‍🎓, Developer and Ethical Hacker👨‍💻
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeviL-OP&theme=dark" alt="DeviL-OP" /></p>
+<p align='center'>
+  <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeviL-OP&theme=dark" alt="DeviL-OP" /></a>
+</p>
 
 <br>
 
@@ -44,19 +46,27 @@
 
 ## 📈 My Stats:
 
-[![Biswa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeviL-OP&theme=dark)](https://github.com/DeviL-OP/github-readme-stats)
+<p align='center'>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DeviL-OP&theme=dark" alt="DeviL-OP" /></a>
+</p>
 
 ##
 
-[![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviL-OP&theme=dark)](https://github.com/DeviL-OP/github-readme-stats)
+<p align='center'>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeviL-OP&theme=dark" alt="DeviL-OP" /></a>
+</p>
 
 ##
 
-[![Summery Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeviL-OP&theme=vue)](https://github.com/DeviL-OP/github-readme-stats)
+<p align='center'>
+  <a href="#"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeviL-OP&theme=vue" alt="DeviL-OP" /></a>
+</p>
 
 ##
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=DeviL-OP&theme=minimal&theme=dark)](https://github.com/DeviL-OP/github-readme-stats)
+<p align='center'>
+  <a href="#"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=DeviL-OP&theme=minimal&theme=dark" alt="DeviL-OP" /></a>
+</p>
 
 [youtube]: https://youtube.com/channel/UCiK7eb2PWlhVuyE0uCj0ZwA
 [twitter]: https://twitter.com/ig_devilisop?t=kQri76C8PWY4Mqqp_CuHgQ&s=09
