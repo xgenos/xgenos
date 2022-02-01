@@ -4,6 +4,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ig_devilisop?color=1DA1F2&logo=twitter&style=for-the-badge&)](https://twitter.com/intent/follow?original_referes=https%3A%2F%2Fgithub.com%2Fig_devilisop&screen-name=ig_devilisop)
 
+![](https://komarev.com/ghpvc/?username=DeviL-OP&style=flat-square&color=blueviolet)
+
 ## I,m Student,Developer and Ethical Hacker
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeviL-OP&" alt="DeviL-OP" /></p>
