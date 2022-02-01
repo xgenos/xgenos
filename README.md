@@ -1,8 +1,8 @@
-### Hi there, I'm Nikhil - AKA [Biswa][instagram]
+## Hi there, I'm Nikhil - AKA [Biswa][instagram]
 
-[![Instagram](https://img.Shields.io/website?label=x.devilop&style=for-the-badge&url=https%3A%2F%2Finstagram.com/x.devilop)](https://instagram.com/x.devilop)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/x.devilop)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ig_devilisop?color=1DA1F2&logo=twitter&style=for-the-badge&)](https://twitter.com/ig_devilisop)
+[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ig_devilisop)
 
 ![](https://komarev.com/ghpvc/?username=DeviL-OP&style=flat-square&color=blueviolet)
 
@@ -17,7 +17,7 @@
 - ⚡ 2022 Goals: Aim to create a python base A.I.
 - 🎄 Funfact: I love listening songs and i also love writing qoutes
 
-### Contact With Me:
+## Contact With Me:
 
 [<img align="lift" alt="Biswakalyan Bhuyan | Youtube" width="26px" src="https://img.icons8.com/color/22/000000/youtube-play.png" />][youtube] 
 [<img align="lift" alt="Biswa | Twitter" width="26px" src="https://img.icons8.com/color/22/000000/twitter--v2.png" />][twitter] 
@@ -27,7 +27,7 @@
 
 <br />
 
-### Language and Tools i use :
+## Language and Tools i use :
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluency/26/000000/visual-studio-code-2019.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/26/000000/html-5--v1.png" />][HTML5]
@@ -42,10 +42,21 @@
 
 ---
 
-### ✨ My Stats
+## ✨ My Stats:
 
-[![Biswa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeviL-OP)](https://github.com/DeviL-OP/github-readme-stats) <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeviL-OP&show_icons=true&locale=en&layout=compact" alt="starkdroid" /></p>
+[![Biswa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeviL-OP)](https://github.com/DeviL-OP/github-readme-stats)
 
+##
+
+[![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviL-OP)](https://github.com/DeviL-OP/github-readme-stats)
+
+##
+
+[![Summery Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeviL-OP&theme=vue)](https://github.com/DeviL-OP/github-readme-stats)
+
+##
+
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=DeviL-OP&theme=minimal)](https://github.com/DeviL-OP/github-readme-stats)
 
 [youtube]: https://youtube.com/channel/UCiK7eb2PWlhVuyE0uCj0ZwA
 [twitter]: https://twitter.com/ig_devilisop?t=kQri76C8PWY4Mqqp_CuHgQ&s=09
