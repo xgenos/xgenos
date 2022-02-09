@@ -53,14 +53,14 @@
 ##
 
 <p align='center'>
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xgenos&theme=dark" alt="xgenos" /></a>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xgenos&langs_count=8&theme=dark" alt="xgenos" /></a>
 </p>
 
 ##
 
-<p align='center'>
-  <a href="#"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xgenos&theme=vue" alt="xgenos" /></a>
-</p>
+#<p align='center'>
+#  <a href="#"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xgenos&theme=vue" alt="xgenos" /></a>
+#</p>
 
 ##
 
