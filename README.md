@@ -9,7 +9,7 @@
 ## I'm Student👨‍🎓, Developer and Ethical Hacker👨‍💻
 
 <p align='center'>
-  <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xgenos&theme=dark" alt="xgenos" /></a>
+  <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xgenos&theme=merko" alt="xgenos" /></a>
 </p>
 
 <br>
@@ -47,7 +47,7 @@
 ## 📈 My Stats:
 
 <p align='center'>
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xgenos&theme=dark" alt="xgenos" /></a>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xgenos&theme=aura" alt="xgenos" /></a>
 </p>
 
 <!-- ##
