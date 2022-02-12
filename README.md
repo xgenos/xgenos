@@ -65,9 +65,9 @@
 ##
 
 [youtube]: https://youtube.com/channel/UCiK7eb2PWlhVuyE0uCj0ZwA
-[twitter]: https://twitter.com/ig_devilisop?t=kQri76C8PWY4Mqqp_CuHgQ&s=09
+[twitter]: https://twitter.com/_xgenos_
 [linkdin]: https://www.linkedin.com/in/biswakalyan-bhuyan-540b53214
-[instagram]: https://instagram.com/x.devilop?utm_medium=copy_link
+[instagram]: https://instagram.com/_xgenos
 [dev]: https://dev.to/biswakalyan
 [vscode]: https://code.visualstudio.com/
 [HTML5]: https://html.com/
