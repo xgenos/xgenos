@@ -1,4 +1,4 @@
-## Hi there!!!👋, I'm Nikhil - AKA [Biswa][instagram]
+<h1 align="center">Hey! I'm Nikhil-AKA Biswa <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px"></h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/x.devilop)
 
