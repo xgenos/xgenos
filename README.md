@@ -1,10 +1,13 @@
 <h1 align="center">Hey! I'm Nikhil-AKA Biswa <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px"></h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/x.devilop)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/x.devilop) [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ig_devilisop) ![](https://api.ghprofile.me/view?username=xgenos&color=24283B&label=views)
 
-[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ig_devilisop)
+[<img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
-![](https://komarev.com/ghpvc/?username=DeviL-OP&style=flat-square&color=blueviolet)
+<p align='center'>
+  <a href="#"><img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=xgenos&theme=tokyonight&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="xgenos" /></a>
+</p>
 
 ## I'm Student👨‍🎓, Developer and Ethical Hacker👨‍💻
 
