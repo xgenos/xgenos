@@ -14,9 +14,9 @@
 
 <br>
 
-- 🔭 I'm Currently learning front end developing 
+- 🔭 Working with backend developement
 - 🍃 I'm always ready to contribute to you'r projects
-- ⚡ Currently working to build an Operating System
+- ⚡ Currently learning to build an Operating System
 - 🎄 Funfact: I love listening songs and i also love writing qoutes
 
 ## 📞 Contact With Me:
