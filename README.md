@@ -16,7 +16,7 @@
 
 - 🔭 I'm Currently learning front end developing 
 - 🍃 I'm always ready to contribute to you'r projects
-- ⚡ 2022 Goals: Aim to create a python base A.I.
+- ⚡ Currently working to build an Operating System
 - 🎄 Funfact: I love listening songs and i also love writing qoutes
 
 ## 📞 Contact With Me:
