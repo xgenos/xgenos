@@ -25,7 +25,7 @@
 [<img align="lift" alt="Biswa | Twitter" width="26px" src="https://img.icons8.com/color/22/000000/twitter--v2.png" />][twitter] 
 [<img align="lift" alt="Biswakalyan Bhuyan | Linkdin" width="26px" src="https://img.icons8.com/color/22/000000/linkedin-2--v2.png" />][linkdin] 
 [<img align="lift" alt="Biswa | Instagram" width="26px" src="https://img.icons8.com/color/22/000000/instagram-new--v2.png" />][instagram] 
-[<img align="lift" alt="Biswakalyan Bhuyan | Dev" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />][dev] 
+[<img align="lift" alt="Biswakalyan Bhuyan | Dev" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />][dev]
 
 <br />
 
@@ -38,6 +38,7 @@
 [<img align="left" alt="python" width="26px" src="https://img.icons8.com/color/26/000000/python--v2.png" />][python]
 [<img align="left" alt="java" width="26px" src="https://img.icons8.com/color/26/000000/java-coffee-cup-logo--v2.png" />][java]
 [<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/26/000000/c-plus-plus-logo.png" />][C++]
+[<img align="left" alt="lisp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg" />][lisp]
 
 <br />
 <br />
@@ -76,3 +77,4 @@
 [python]: https://www.python.org/
 [java]: https://www.java.com/
 [C++]: https://isocpp.org/
+[lisp]: https://lisp-lang.org/
