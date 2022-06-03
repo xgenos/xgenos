@@ -38,7 +38,7 @@
 [<img align="left" alt="python" width="26px" src="https://img.icons8.com/color/26/000000/python--v2.png" />][python]
 [<img align="left" alt="java" width="26px" src="https://img.icons8.com/color/26/000000/java-coffee-cup-logo--v2.png" />][java]
 [<img align="left" alt="C++" width="26px" src="https://img.icons8.com/color/26/000000/c-plus-plus-logo.png" />][C++]
-[<img align="left" alt="lisp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg" />][lisp]
+[<img align="left" alt="lisp" width="26px" src="https://www.vectorlogo.zone/logos/common-lispnet/common-lispnet-icon.svg" />][lisp]
 
 <br />
 <br />
