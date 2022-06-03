@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm <a href="https://xgenos.github.io/genos.github.io/">Biswa</a> <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="10"></h1>
+<h1 align="center">Hey! I'm <a href="https://xgenos.github.io/genos.github.io/">Biswa</a> <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30"></h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_xgenos) [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_xgenos_) ![](https://api.ghprofile.me/view?username=xgenos&color=24283B&label=views)
 
