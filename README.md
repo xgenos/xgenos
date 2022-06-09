@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm <a href="https://xgenos.github.io/genos.github.io/">Biswa</a> <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30"></h1>
+<h1 align="center">Hey! I'm <a href="https://xgenos.github.io/">Biswa</a> <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30"></h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_xgenos) [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_xgenos_) ![](https://api.ghprofile.me/view?username=xgenos&color=24283B&label=views)
 
@@ -21,10 +21,10 @@
 
 ## 📞 Contact With Me:
 
-[<img align="lift" alt="Biswakalyan Bhuyan | Youtube" width="26px" src="https://img.icons8.com/color/22/000000/youtube-play.png" />][youtube] 
-[<img align="lift" alt="Biswa | Twitter" width="26px" src="https://img.icons8.com/color/22/000000/twitter--v2.png" />][twitter] 
-[<img align="lift" alt="Biswakalyan Bhuyan | Linkdin" width="26px" src="https://img.icons8.com/color/22/000000/linkedin-2--v2.png" />][linkdin] 
-[<img align="lift" alt="Biswa | Instagram" width="26px" src="https://img.icons8.com/color/22/000000/instagram-new--v2.png" />][instagram] 
+[<img align="lift" alt="Biswakalyan Bhuyan | Youtube" width="26px" src="https://img.icons8.com/color/22/000000/youtube-play.png" />][youtube]
+[<img align="lift" alt="Biswa | Twitter" width="26px" src="https://img.icons8.com/color/22/000000/twitter--v2.png" />][twitter]
+[<img align="lift" alt="Biswakalyan Bhuyan | Linkdin" width="26px" src="https://img.icons8.com/color/22/000000/linkedin-2--v2.png" />][linkdin]
+[<img align="lift" alt="Biswa | Instagram" width="26px" src="https://img.icons8.com/color/22/000000/instagram-new--v2.png" />][instagram]
 [<img align="lift" alt="Biswakalyan Bhuyan | Dev" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />][dev]
 
 <br />
