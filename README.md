@@ -67,7 +67,7 @@
 
 ## 📈 Snake eating my contributions :/
 
-![snake gif](https://github.com/xgenos/xgenos/blob/output/github-contribution-grid-snake.jpg)
+![snake gif](https://github.com/xgenos/xgenos/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
