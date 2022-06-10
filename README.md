@@ -63,6 +63,8 @@
   <a href="#"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xgenos&theme=vue" alt="xgenos" /></a>
 </p> -->
 
+---
+
 ## 📈 Snake eating my contributions :/
 
 ![snake gif](https://github.com/xgenos/xgenos/blob/output/github-contribution-grid-snake.svg)
