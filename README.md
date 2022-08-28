@@ -27,8 +27,6 @@
 [<img align="lift" alt="Biswa | Instagram" width="26px" src="https://img.icons8.com/color/22/000000/instagram-new--v2.png" />][instagram]
 [<img align="lift" alt="Biswakalyan Bhuyan | Dev" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />][dev]
 
-<br />
-
 ## 🛠 Language and Tools i use :
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluency/26/000000/visual-studio-code-2019.png" />][vscode]
@@ -43,27 +41,12 @@
 <br />
 <br />
 
----
 
 ## 📈 My Stats:
 
 <p align='center'>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=xgenos&theme=aura" alt="xgenos" /></a>
 </p>
-
-##
-
-<p align='center'>
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xgenos&langs_count=8&theme=aura" alt="xgenos" /></a>
-</p>
-
-<!-- ##
-
-<p align='center'>
-  <a href="#"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xgenos&theme=vue" alt="xgenos" /></a>
-</p> -->
-
----
 
 ## 📈 Snake eating my contributions :/
 
