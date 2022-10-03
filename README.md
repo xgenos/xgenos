@@ -5,7 +5,7 @@
   <a href="#"><img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=xgenos&theme=tokyonight&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="xgenos" /></a>
 </p>
 
-## I'm Student👨‍🎓, Developer and Ethical Hacker👨‍💻
+## I'm a Student, Developer and Ethical Hacker 👨‍💻
 
 <p align='center'>
   <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xgenos&theme=merko" alt="xgenos" /></a>
