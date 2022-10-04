@@ -14,7 +14,7 @@
 <br>
 
 - 🔭 Working with backend developement
-- 🍃 I'm always ready to contribute to you'r projects
+- 🍃 I'm always ready to contribute to you're projects
 - ⚡ Currently learning to build an Operating System
 - 🎄 Funfact: I love listening songs and i also love writing qoutes
 
