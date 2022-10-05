@@ -8,9 +8,9 @@
 
 ## I'm a Student, Developer and Ethical Hacker 👨‍💻
 
-<!-- <p align='center'>
+<p align='center'>
   <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xgenos&theme=merko" alt="xgenos" /></a>
-</p> -->
+</p>
 
 <br>
 
