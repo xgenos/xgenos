@@ -2,9 +2,9 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/x_.gen) [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_xgenos_) ![](https://api.ghprofile.me/view?username=xgenos&color=24283B&label=views)
 
-<p align='center'>
+<!-- <p align='center'>
   <a href="#"><img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=xgenos&theme=tokyonight&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="xgenos" /></a>
-</p>
+</p> -->
 
 ## I'm a Student, Developer and Ethical Hacker 👨‍💻
 
