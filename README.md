@@ -1,6 +1,6 @@
 <h1 align="center">Hey! I'm <a href="https://xgenos.tildevarsh.in/">Biswa</a> <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30"></h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/x_.gen) [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_xgenos_) ![](https://api.ghprofile.me/view?username=xgenos&color=24283B&label=views)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/x_.gen) [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thesurgot) ![](https://api.ghprofile.me/view?username=xgenos&color=24283B&label=views) [![Website](https://img.shields.io/badge/Website-9AE835?style=for-the-badge&logo=internetexplorer&logoColor=333)](https://xgenos.me/) [![Linkdin](https://img.shields.io/badge/Linkdin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswakalyanbhuyan) [![Youtube](https://img.shields.io/badge/youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCiK7eb2PWlhVuyE0uCj0ZwA) [![Dev](https://img.shields.io/badge/dev.to-333?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/biswakalyan)
 
 <!-- <p align='center'>
   <a href="#"><img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=xgenos&theme=tokyonight&&margin-w=12&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="xgenos" /></a>
@@ -18,14 +18,6 @@
 - 🍃 I'm always ready to contribute to you're projects
 - ⚡ Currently learning to build an Operating System
 - 🎄 Funfact: I love listening songs and i also love writing qoutes
-
-## 📞 Contact With Me:
-
-[<img align="lift" alt="Biswakalyan Bhuyan | Youtube" width="26px" src="https://img.icons8.com/color/22/000000/youtube-play.png" />][youtube]
-[<img align="lift" alt="Biswa | Twitter" width="26px" src="https://img.icons8.com/color/22/000000/twitter--v2.png" />][twitter]
-[<img align="lift" alt="Biswakalyan Bhuyan | Linkdin" width="26px" src="https://img.icons8.com/color/22/000000/linkedin-2--v2.png" />][linkdin]
-[<img align="lift" alt="Biswa | Instagram" width="26px" src="https://img.icons8.com/color/22/000000/instagram-new--v2.png" />][instagram]
-[<img align="lift" alt="Biswakalyan Bhuyan | Dev" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />][dev]
 
 ## 🛠 Language and Tools i use :
 
@@ -57,11 +49,6 @@
 
 ##
 
-[youtube]: https://youtube.com/channel/UCiK7eb2PWlhVuyE0uCj0ZwA
-[twitter]: https://twitter.com/_xgenos_
-[linkdin]: https://www.linkedin.com/in/biswakalyan-bhuyan-540b53214
-[instagram]: https://instagram.com/x_.gen
-[dev]: https://dev.to/biswakalyan
 [vscode]: https://code.visualstudio.com/
 [HTML5]: https://html.com/
 [CSS3]: https://html.com/
