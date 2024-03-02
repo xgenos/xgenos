@@ -35,7 +35,7 @@
 
 ## 🦖 Holopin Board:
 
-[![@xgen's Holopin board](https://holopin.io/api/user/board?user=xgen)](https://holopin.io/@xgen)
+[![@xgen's Holopin board](https://holopin.me/xgen)](https://holopin.io/@xgen)
 
 ## 📈 My Stats:
 
